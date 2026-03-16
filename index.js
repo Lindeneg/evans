@@ -1,5 +1,6 @@
 // just some exploration!!
 
+// probably do scoping with a stack instead of this madness
 let currentListener = null;
 
 function signal(initial) {
